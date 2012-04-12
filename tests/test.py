@@ -1,7 +1,7 @@
 '''
 Created on 12-04-2012
 
-@author: Marta
+@author: Marta and Dawid Ireno
 '''
 import unittest
 
